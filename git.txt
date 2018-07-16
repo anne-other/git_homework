@@ -1,1 +1,4 @@
 homework practicing git
+
+gitignore files is a list of intentionally untract files that you want git to ignore when taking a git action such as commit or status.
+These files are usually temporary files produced by programs or code; files produced by tests other than the results; or hidden files.
